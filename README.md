@@ -1,3 +1,3 @@
 # MiPrimerProyectoAndroid
 
-Subido a GetHub desde Android Studio
+Subido a GitHub desde Android Studio
