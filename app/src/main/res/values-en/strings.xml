@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MiPrimerProyectoAndroid</string>
-    <string name="txtv">Welcome</string>
+    <string name="txtv">Wellcome</string>
     <string name="button">Enter</string>
 </resources>
